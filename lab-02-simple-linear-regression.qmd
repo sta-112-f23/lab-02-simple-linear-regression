@@ -1,0 +1,46 @@
+---
+title: "Lab 02 - Simple Linear Regression"
+author: "Lucy D'Agostino McGowan"
+date: ""
+format: html
+editor: visual
+---
+
+### Load packages
+
+```{r}
+#| label: load-packages
+#| message: false
+#| warning: false
+library(tidyverse) 
+```
+
+### Exercise 1
+
+Put your answer to Exercise 1 here, you should delete my example text.
+
+### Exercise 2
+
+Place your code in the R chunk below for Exercise 2. Be sure to answer all of the questions with text below your figure. You should delete my example text.
+
+```{r}
+#| label: ex-2
+```
+
+### Exercise 3
+
+Place your code in the R chunk below for Exercise 3. Be sure to answer all of the questions with text below your R code with your model output. You should delete my example text.
+
+```{r}
+#| label: ex-3
+```
+
+### Exercise 4
+
+You can edit this "math type" text below to update your equation based on what you see in Exercise 3. If you click on the equation below, you can edit it.
+
+$$
+\hat{y} = \hat{\beta}_0 + \hat{\beta}_1
+$$
+
+For the remaining Exercises, add headers for each exercise, labeled R chunks when necessary, and text describing your answers. Be sure to Click "Render" every time you make a change to save your output and create your .html file.
