@@ -40,7 +40,7 @@ Place your code in the R chunk below for Exercise 3. Be sure to answer all of th
 You can edit this "math type" text below to update your equation based on what you see in Exercise 3. If you click on the equation below, you can edit it.
 
 $$
-\hat{y} = \hat{\beta}_0 + \hat{\beta}_1
+\hat{y} = \hat{\beta}_0 + \hat{\beta}_1x
 $$
 
 For the remaining Exercises, add headers for each exercise, labeled R chunks when necessary, and text describing your answers. Be sure to Click "Render" every time you make a change to save your output and create your .html file.
