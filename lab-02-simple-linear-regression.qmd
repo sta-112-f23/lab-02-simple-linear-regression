@@ -2,7 +2,9 @@
 title: "Lab 02 - Simple Linear Regression"
 author: "Lucy D'Agostino McGowan"
 date: ""
-format: html
+format: 
+  html:
+    self-contained: true
 editor: visual
 ---
 
